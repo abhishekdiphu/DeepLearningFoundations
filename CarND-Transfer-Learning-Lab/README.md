@@ -31,6 +31,7 @@ https://github.com/udacity/CarND-Transfer-Learning-Lab
 ### vgg_cifar_bottleneck_data
 
 ### vgg_traffic_bottleneck_data
-
-## 1. python feature_extraction.py --training_file vgg_cifar_bottleneck_data/vgg_cifar10_bottleneck_features_train.p --validation_file vgg_cifar_bottleneck_data/vgg_cifar10_bottleneck_features_validation.p
-## Follow the same steps for Traffic datasets .
+1. python feature_extraction.py --training_file vgg_cifar_bottleneck_data/vgg_cifar10_bottleneck_features_train.p --validation_file vgg_cifar_bottleneck_data/vgg_cifar10_bottleneck_features_validation.p
+ 
+ 
+Follow the same steps for Traffic datasets .
