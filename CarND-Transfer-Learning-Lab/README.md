@@ -20,3 +20,17 @@ network can be one of 'vgg', 'inception', or 'resnet'
 dataset can be on of 'cifar10' or 'traffic'
 
 How will the pretrained model perform on the new datasets?
+
+
+
+# Bottleneck data will be availabe at :
+https://github.com/udacity/CarND-Transfer-Learning-Lab
+
+# for training :
+### put the bottleneck data in :
+### vgg_cifar_bottleneck_data
+
+### vgg_traffic_bottleneck_data
+
+## 1. python feature_extraction.py --training_file vgg_cifar_bottleneck_data/vgg_cifar10_bottleneck_features_train.p --validation_file vgg_cifar_bottleneck_data/vgg_cifar10_bottleneck_features_validation.p
+## Follow the same steps for Traffic datasets .
